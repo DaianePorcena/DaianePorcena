@@ -5,7 +5,7 @@
 - 👩🏻‍💻 &nbsp; Aprendendo novas tecnologias e desenvolvendo soluções de software.
 - <img src="https://cdn-icons-png.flaticon.com/512/2436/2436874.png" width="20px" height="20px"> &nbsp;Estudando **Sistemas de Informação** no <a href="link da sua faculdade">Instituto Federal da Bahia</a>.
 - 💼 &nbsp; Trabalhando em **Desenvolvimento mobile com React Native** no <a href="LINK DA EMPRESA">IFBA</a>
--  <img src="https://cdn-icons-png.flaticon.com/512/4616/4616740.png" width="20px" height="20px"> &nbsp; Aprendendo mais sobre **Django para sistemas web**.
+-  <img src="https://cdn-icons-png.flaticon.com/512/4616/4616740.png" width="20px" height="20px"> &nbsp; Aprendendo mais sobre **React JS**.
 
 <h3> 🚀 Minhas Skills </h3>
 
